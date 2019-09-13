@@ -4,7 +4,8 @@
 
 1. Run `ng serve` for a dev server.
 2. Navigate to `http://localhost:4200/`.
-    > The app will automatically reload if you change any of the source files.
+
+> The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 

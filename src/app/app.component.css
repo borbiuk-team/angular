@@ -1,0 +1,15 @@
+.header {
+    margin: 0;
+    background: #55d6aa;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 100;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.nav {
+    float: right;
+}
